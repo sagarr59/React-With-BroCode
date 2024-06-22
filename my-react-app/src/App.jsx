@@ -1,11 +1,11 @@
 import Header from "./Header.jsx";
 import Footer from "./Footer.jsx";
-import Fruits from "./Fruits.jsx";
+import Hero from "./Hero.jsx";
 function App() {
   return (
     <>
       <Header />
-      <Fruits />
+      <Hero />
       <Footer />
     </>
   );
